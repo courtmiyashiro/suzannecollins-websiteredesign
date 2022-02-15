@@ -1,0 +1,171 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+.d-flex {
+    background-color:black;
+    color:#f5f5f5;
+    
+}
+
+.navbar, a.navbar-brand, .navbar-nav {
+    background-color:black;
+    color:#f5f5f5;
+    font-family: 'Teko', sans-serif;
+    font-size:30px;
+    
+}
+
+a.nav-link {
+    font-family: 'Teko', sans-serif;
+    color:#f5f5f5;
+    font-size:25px;
+    background-color:black;
+}
+
+.nav_item{
+    font-family: 'Teko', sans-serif;
+    background-color:black;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.d-block {
+    display:block;
+}
+
+.homeauthor.img-responsive {
+    width:280px;
+    height:340px;
+}
+
+#aboutheauthor {
+    background-color:#f5f5f5;
+}
+
+#bestsellingauthor, #awards {
+     background-color: #F2BE22;
+}
+
+#bestsellingseries {
+    background-color:#f5f5f5;
+    color: black;
+}
+
+#film {
+    background-color:black;
+    color: #f5f5f5;
+}
+
+.moviecover.img-responsive {
+    width:220px;
+}
+
+.moviecover2.img-responsive {
+    width:220px;
+    height:325px;
+}
+
+.bookcover.img-responsive {
+    width:200px;
+    
+}
+
+.biography.container-fluid {
+    background-color: #f5f5f5;
+}
+
+.authorpicture.img-responsive {
+    width:330px;
+    height:480px;
+}
+
+.hungergames.img-responsive, .chronicles.img-responsive, .picbooks.img-responsive {
+    width:auto;
+    height:340px;
+    filter: drop-shadow(5px 1px 20px #000000);
+}
+
+.ballad.img-responsive {
+    width:225px;
+    height:320px;
+}
+
+
+#hungergames, #hungergames_books {
+    font-family: 'Teko', sans-serif;
+    background-color:black;
+    color:#f5f5f5;
+}
+
+.hungergames_title {
+    color:#F2BE22;
+}
+
+#gregor, #picturebook{
+    font-family: 'Teko', sans-serif;
+}
+
+.btn {
+     background-color: #F2BE22;
+}
+
+.btn-warning {
+    font-family: 'Teko', sans-serif;
+    background-color: #F2BE22;
+    color: black;
+    border:none;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Teko', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size:15px;
+}
+.bookpage.img-responsive {
+    width:auto;
+    height: 480px;
+    filter: drop-shadow(5px 1px 20px #000000);
+}
+.picbookpage.img-responsive {
+    width:430px;
+    height:410px;
+    filter: drop-shadow(5px 1px 20px #000000);
+    
+}
+.readerslike.img-responsive, .readerslikeballad.img-responsive {
+    width:180px;
+    height:250px;
+    filter: drop-shadow(5px 1px 20px #000000);
+}
+.readerslikepic.img-responsive {
+    width:;1850px;
+    height:250px;
+    filter: drop-shadow(5px 1px 20px #000000);
+    
+}
+
+.star{
+    color:#F2BE22;
+    font-size:20px;
+    
+}
+
+footer {
+    background-color:black;
+    color:#F2BE22;
+    font-family: 'Teko', sans-serif;
+    font-size:25px;
+    
+}
+
+.cart {
+    font-size: 20px;
+    padding-top:13px;
+    padding-left:9px;
+}
+
